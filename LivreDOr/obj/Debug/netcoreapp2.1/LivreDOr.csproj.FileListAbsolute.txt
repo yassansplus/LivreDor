@@ -1,0 +1,11 @@
+C:\Users\bousaidi\source\repos\LivreDOr\LivreDOr\bin\Debug\netcoreapp2.1\LivreDOr.deps.json
+C:\Users\bousaidi\source\repos\LivreDOr\LivreDOr\bin\Debug\netcoreapp2.1\LivreDOr.runtimeconfig.json
+C:\Users\bousaidi\source\repos\LivreDOr\LivreDOr\bin\Debug\netcoreapp2.1\LivreDOr.runtimeconfig.dev.json
+C:\Users\bousaidi\source\repos\LivreDOr\LivreDOr\bin\Debug\netcoreapp2.1\LivreDOr.dll
+C:\Users\bousaidi\source\repos\LivreDOr\LivreDOr\bin\Debug\netcoreapp2.1\LivreDOr.pdb
+C:\Users\bousaidi\source\repos\LivreDOr\LivreDOr\obj\Debug\netcoreapp2.1\LivreDOr.csprojAssemblyReference.cache
+C:\Users\bousaidi\source\repos\LivreDOr\LivreDOr\obj\Debug\netcoreapp2.1\LivreDOr.csproj.CoreCompileInputs.cache
+C:\Users\bousaidi\source\repos\LivreDOr\LivreDOr\obj\Debug\netcoreapp2.1\LivreDOr.AssemblyInfoInputs.cache
+C:\Users\bousaidi\source\repos\LivreDOr\LivreDOr\obj\Debug\netcoreapp2.1\LivreDOr.AssemblyInfo.cs
+C:\Users\bousaidi\source\repos\LivreDOr\LivreDOr\obj\Debug\netcoreapp2.1\LivreDOr.dll
+C:\Users\bousaidi\source\repos\LivreDOr\LivreDOr\obj\Debug\netcoreapp2.1\LivreDOr.pdb
